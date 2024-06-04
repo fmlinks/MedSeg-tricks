@@ -1,2 +1,2 @@
 # MedSeg-tricks
-medical image segmentation tricks
+tricks is all you need
